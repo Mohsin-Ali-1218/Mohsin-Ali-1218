@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mohsin
 
-<!--
-**Mohsin-Ali-1218/Mohsin-Ali-1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI engineer in Pakistan. I build RAG systems, LLM integrations and
+Python/FastAPI backends, and I also work on computer vision.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Multi-Tenant RAG Knowledge Assistant](https://github.com/Mohsin-Ali-1218/multi-tenant-rag-knowledge-assistant)**:
+  personal demo. Search PDF, DOCX and TXT documents with tenant-scoped
+  retrieval, filename/page source references and saved chat history.
+  FastAPI, Qdrant, MongoDB, BGE-M3, Gemini. 43 automated tests.
+- **[AI PR Quality Gate](https://github.com/Mohsin-Ali-1218/ai-pr-quality-gate)**:
+  LLM review of every pull request, with severity rules and a pass/fail
+  check that blocks risky merges. GitHub Actions, Gemini.
+
+## Open-source contributions
+
+Contributor to these MIT-licensed RAG libraries, as part of my role at EnDevSols:
+
+- **[LongTracer](https://github.com/ENDEVSOLS/LongTracer)**: hallucination detection for RAG answers
+- **[LongProbe](https://github.com/ENDEVSOLS/LongProbe)**: regression testing for RAG retrieval
+- **[LongParser](https://github.com/ENDEVSOLS/LongParser)**: document parsing for RAG
+- **[LongTrainer](https://github.com/ENDEVSOLS/Long-Trainer)**: multi-tenant RAG chatbot framework
+
+## Stack
+
+Python · FastAPI · Qdrant · MongoDB · Docker · GitHub Actions · pytest
